@@ -2,7 +2,8 @@
   "name": "hamza-portfolio",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://hamza-jadoon.github.io/hamza.potfolio",
+  "homepage": "https://hamza-jadoon.github.io/hamza-portfolio-new",
+  "description": "A personal portfolio website showcasing projects and skills.",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
