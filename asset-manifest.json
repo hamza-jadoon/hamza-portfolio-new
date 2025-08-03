@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hamza.potfolio/static/css/main.351255ea.css",
+    "main.js": "/hamza.potfolio/static/js/main.e3d67130.js",
+    "static/js/453.801bab78.chunk.js": "/hamza.potfolio/static/js/453.801bab78.chunk.js",
+    "static/media/image3.png": "/hamza.potfolio/static/media/image3.d1dac7973d298ac534c4.png",
+    "static/media/hamza.png": "/hamza.potfolio/static/media/hamza.d5bd5d795e617e6c7b12.png",
+    "static/media/image1.png": "/hamza.potfolio/static/media/image1.85d5c5af86ff9af2c94f.png",
+    "static/media/image2.png": "/hamza.potfolio/static/media/image2.25cde47eb3042ab3a446.png",
+    "index.html": "/hamza.potfolio/index.html",
+    "main.351255ea.css.map": "/hamza.potfolio/static/css/main.351255ea.css.map",
+    "main.e3d67130.js.map": "/hamza.potfolio/static/js/main.e3d67130.js.map",
+    "453.801bab78.chunk.js.map": "/hamza.potfolio/static/js/453.801bab78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351255ea.css",
+    "static/js/main.e3d67130.js"
+  ]
+}
