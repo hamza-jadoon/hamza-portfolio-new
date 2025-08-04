@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/hamza-portfolio-new/static/css/main.351255ea.css",
-    "main.js": "/hamza-portfolio-new/static/js/main.751f3ab8.js",
+    "main.js": "/hamza-portfolio-new/static/js/main.4c8cb709.js",
     "static/js/453.801bab78.chunk.js": "/hamza-portfolio-new/static/js/453.801bab78.chunk.js",
     "static/media/image3.png": "/hamza-portfolio-new/static/media/image3.d1dac7973d298ac534c4.png",
-    "static/media/hamza.png": "/hamza-portfolio-new/static/media/hamza.d5bd5d795e617e6c7b12.png",
+    "static/media/hamza00.png": "/hamza-portfolio-new/static/media/hamza00.6cab4b54595170cee410.png",
     "static/media/image1.png": "/hamza-portfolio-new/static/media/image1.85d5c5af86ff9af2c94f.png",
     "static/media/image2.png": "/hamza-portfolio-new/static/media/image2.25cde47eb3042ab3a446.png",
     "index.html": "/hamza-portfolio-new/index.html",
     "main.351255ea.css.map": "/hamza-portfolio-new/static/css/main.351255ea.css.map",
-    "main.751f3ab8.js.map": "/hamza-portfolio-new/static/js/main.751f3ab8.js.map",
+    "main.4c8cb709.js.map": "/hamza-portfolio-new/static/js/main.4c8cb709.js.map",
     "453.801bab78.chunk.js.map": "/hamza-portfolio-new/static/js/453.801bab78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.351255ea.css",
-    "static/js/main.751f3ab8.js"
+    "static/js/main.4c8cb709.js"
   ]
 }
