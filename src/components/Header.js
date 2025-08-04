@@ -353,7 +353,7 @@ const Header = () => {
           {/* Logo or Name */}
           <div className="logo">
             <h1>Hamza Jadoon</h1>
-            <p>Full Stack Developer</p>
+            {/* <p>Full Stack Developer</p> */}
           </div>
 
           {/* Navigation Menu */}
