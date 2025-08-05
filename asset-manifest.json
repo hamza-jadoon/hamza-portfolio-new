@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hamza-portfolio-new/static/css/main.a774d066.css",
+    "main.css": "/hamza-portfolio-new/static/css/main.5fd5add3.css",
     "main.js": "/hamza-portfolio-new/static/js/main.64ad2d5c.js",
     "static/js/453.801bab78.chunk.js": "/hamza-portfolio-new/static/js/453.801bab78.chunk.js",
     "static/media/image3.png": "/hamza-portfolio-new/static/media/image3.d1dac7973d298ac534c4.png",
@@ -8,12 +8,12 @@
     "static/media/image1.png": "/hamza-portfolio-new/static/media/image1.85d5c5af86ff9af2c94f.png",
     "static/media/image2.png": "/hamza-portfolio-new/static/media/image2.25cde47eb3042ab3a446.png",
     "index.html": "/hamza-portfolio-new/index.html",
-    "main.a774d066.css.map": "/hamza-portfolio-new/static/css/main.a774d066.css.map",
+    "main.5fd5add3.css.map": "/hamza-portfolio-new/static/css/main.5fd5add3.css.map",
     "main.64ad2d5c.js.map": "/hamza-portfolio-new/static/js/main.64ad2d5c.js.map",
     "453.801bab78.chunk.js.map": "/hamza-portfolio-new/static/js/453.801bab78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a774d066.css",
+    "static/css/main.5fd5add3.css",
     "static/js/main.64ad2d5c.js"
   ]
 }
