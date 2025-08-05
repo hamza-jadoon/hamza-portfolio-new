@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
+
 import hamza00Photo from '../assets/hamza00.png';
+
 
 const About = () => {
   const [displayText, setDisplayText] = useState('');
